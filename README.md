@@ -1,2 +1,2 @@
 # UoB-RL
-UoB RL Assignment
+Github for Assignment 2 on Reinforcement Learning
